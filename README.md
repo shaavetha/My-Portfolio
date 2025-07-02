@@ -10,4 +10,5 @@ Here is a collection of my projects:
 - Description: A vending machine system that allows users to browse available products, add items to a virtual cart, view and modify the cart contents, and complete purchases through a graphical interface. The backend updates the inventory, records transactions, and saves data.
 - Tools: Python, Sockets, SQLite, Tkinter, OOP, File I/O
 
-## Project 3: Music Store
+## Project 3: RusticRhythms - Music Record Store Website
+
