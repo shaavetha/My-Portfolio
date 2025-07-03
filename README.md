@@ -14,3 +14,5 @@ Here is a collection of my projects:
 - Description: A multi-page website that simulates an online music record shop. It features album listings generated from XML data, transformed with XSLT, and styled with CSS for a consistent brand theme. The site includes a homepage, About Us, Contact Us, Login, Checkout, and Thank You pages, along with interactive elements like a sticky nav menu and side navigation.
 - Tools: HTML, HTML Table, CSS, XML, DTD, and XSL
 
+## 📘 Learning Projects
+- [Cat Photo App] - HTML-only practice project following FreeCodeCamp to refresh fundamentals.
