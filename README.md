@@ -15,4 +15,4 @@ Here is a collection of my projects:
 - Tools: HTML, HTML Table, CSS, XML, DTD, and XSL
 
 ## 📘 Learning Projects
-- [Cat Photo App] - HTML-only practice project following FreeCodeCamp to refresh fundamentals.
+- [Cat Photo App] - HTML-only practice project following FreeCodeCamp to refresh fundamentals. https://github.com/shaavetha/html-revision-project
